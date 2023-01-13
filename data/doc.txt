@@ -1,0 +1,3 @@
+"CNTK formerly known as Computational Network Toolkit",
+"is a free easy-to-use open-source commercial-grade toolkit",
+"that enable us to train deep learning algorithms to learn like the human brain."
